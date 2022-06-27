@@ -8,9 +8,6 @@
 
 ---
 
-
----
-
 ## 👨‍💻 "Programming" Languages
 <p>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Aassembly">
