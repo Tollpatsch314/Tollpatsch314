@@ -46,8 +46,8 @@
 		<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Atex">
-		<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"><
-	/a>
+		<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
+	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Abash">
 		<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
 	</a>
