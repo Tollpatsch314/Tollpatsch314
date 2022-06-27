@@ -45,13 +45,13 @@
 		<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=black" />
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Amarkdown">
-		<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=black" />
+		<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Atex">
 		<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=black" />
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Abash">
-		<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=black" />
+		<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" />
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Asql">
 		<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=black" />
