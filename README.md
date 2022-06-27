@@ -4,9 +4,8 @@
 </h1>
 
 <img src="https://gpvc.arturio.dev/Tollpatsch314" alt="Profile views" align='right'/> <a href="https://github.com/Tollpatsch314/Tollpatsch314/"> </a>
----
 
----
+
 ## 👨‍💻 "Programming" Languages
 <p>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Aassembly">
@@ -58,7 +57,6 @@
 		<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=black" />
 	</a>
 </p>
----
 
 ---
 ## GitHub Stats
@@ -71,4 +69,3 @@
 <p align="center">
 	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tollpatsch314&theme=react-dark&hide_border=true&area=true" />
 </p>
----
