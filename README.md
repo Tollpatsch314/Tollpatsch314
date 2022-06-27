@@ -24,7 +24,7 @@
 		<img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=black" />
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Apython">
-		<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=black" />
+		<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Aphp">
 		<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=black" />
