@@ -22,10 +22,9 @@
     <a href="https://github.com/search?q=user%3ATollpatsch314+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATollpatsch314+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATollpatsch314+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-		<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 ## GitHub Stats
-![Tollpatsch314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tollpatsch314&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_radius=15)
-![Tollpatsch314's most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Tollpatsch314&layout=compact&langs_count=10&theme=dark&border_radius=15&card_width=450)
-![Tollpatsch314's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Tollpatsch314&theme=algolia&date_format=j%20M%5B%20Y%5D)
+<p> ![Tollpatsch314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tollpatsch314&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_radius=15) </p>
+<p> ![Tollpatsch314's most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Tollpatsch314&layout=compact&langs_count=10&theme=dark&border_radius=15&card_width=450) </p>
+<p> ![Tollpatsch314's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Tollpatsch314&theme=algolia&date_format=j%20M%5B%20Y%5D) </p>
