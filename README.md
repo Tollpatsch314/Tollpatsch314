@@ -25,6 +25,6 @@
 </p>
 
 ## GitHub Stats
-<p> [![Tollpatsch314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tollpatsch314&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_radius=15)]() </p>
+ ![Tollpatsch314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tollpatsch314&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_radius=15)] 
 <p> ![Tollpatsch314's most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Tollpatsch314&layout=compact&langs_count=10&theme=dark&border_radius=15&card_width=450) </p>
 <p> ![Tollpatsch314's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Tollpatsch314&theme=algolia&date_format=j%20M%5B%20Y%5D) </p>
