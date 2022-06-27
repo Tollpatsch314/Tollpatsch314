@@ -1,10 +1,15 @@
 ---
+
 <h1 align="center">
 	Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <img src="https://gpvc.arturio.dev/Tollpatsch314" alt="Profile views" align='right'/> <a href="https://github.com/Tollpatsch314/Tollpatsch314/"> </a>
 
+---
+
+
+---
 
 ## 👨‍💻 "Programming" Languages
 <p>
@@ -59,6 +64,7 @@
 </p>
 
 ---
+
 ## GitHub Stats
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tollpatsch314&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_radius=15" />
@@ -69,3 +75,5 @@
 <p align="center">
 	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tollpatsch314&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+---
