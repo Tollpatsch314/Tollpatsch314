@@ -9,7 +9,6 @@
 
 ---
 
-## 👨‍💻 "Programming" Languages
 <p>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Aassembly">
 		<img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=black" />
