@@ -34,9 +34,9 @@
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Ajavascript">
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
 	</a>
-	<!--a href="https://github.com/search?q=user%3ATollpatsch314+language%3AtypeScript">
+	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3AtypeScript">
 		<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=black" />
-	</a-->
+	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Ajavascript">
 		<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=black" />
 	</a>
@@ -49,28 +49,15 @@
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Amarkdown">
 		<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
 	</a>
-	<!--a href="https://github.com/search?q=user%3ATollpatsch314+language%3Atex">
+	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Atex">
 		<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=black" />
-	</a-->
+	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Abash">
 		<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" />
 	</a>
 	<a href="https://github.com/search?q=user%3ATollpatsch314+language%3Asql">
 		<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=black" />
 	</a>
-</p>
-
----
-
-## GitHub Stats
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tollpatsch314&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_radius=15" />
-</p>
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tollpatsch314&layout=compact&langs_count=10&theme=dark&border_radius=15&card_width=450" />
-</p>
-<p align="center">
-	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tollpatsch314&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
